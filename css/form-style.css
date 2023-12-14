@@ -8,8 +8,8 @@
   body {
     width: 100vw;
     height: 100vh;
-    background-color: #000;
-    color: whitesmoke;
+    background-color: rgb(183, 173, 173);
+    color: rgb(0, 0, 0);
   }
   
   body,
